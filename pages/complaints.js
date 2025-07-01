@@ -1,0 +1,1 @@
+export default function Complaints() { return <div>Coming soon...</div>; }
